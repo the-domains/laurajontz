@@ -1,4 +1,4 @@
-name: laurajontz
+name: Laura Jontz
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.44456
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fde5e1'
-    - '#7fc498'
-    - '#fc807c'
-    - '#b9b2b8'
-    - '#c9d4ec'
+    - '#eef1f6'
+    - '#fbdddb'
+    - '#2d4c89'
+    - '#e87f7e'
+    - '#b9c6cf'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.9375
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
