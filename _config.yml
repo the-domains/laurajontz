@@ -1,6 +1,6 @@
 name: laurajontz
 favicon: null
-layout_spectrum: 0.10946256574243307
+layout_spectrum: 1
 typography_spectrum: 0.6195635756012052
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5637099565938115
-  lightness: 0.7796128145419061
-  saturation: 0.3800599710084498
-  rhythmicContrast: 0.5278640780597925
+    - '#fde5e1'
+    - '#7fc498'
+    - '#fc807c'
+    - '#b9b2b8'
+    - '#c9d4ec'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
